@@ -1,0 +1,2 @@
+# scit
+introduction to things
